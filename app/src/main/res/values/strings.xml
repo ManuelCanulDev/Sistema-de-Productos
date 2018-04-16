@@ -1,0 +1,78 @@
+
+    <resources>
+        <string name="app_name">Productos</string>
+        <string name="titulo_menu_principal">Remedium App</string>
+        <string name="my_profile">Mi perfil</string>
+        <string name="ajustes">Ajustes</string>
+        <string name="acerca_de">Acerca de</string>
+        <string name="titulo_tips">Tips</string>
+        <string name="titulo_centrosherbolarios">Centros herbolarios</string>
+        <string name="titulo_plantas_medicinales">Plantas medicinales</string>
+        <string name="titulo_enfermedades">Enfermedades</string>
+        <string name="titulo_home">Inicio</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="autor_tip">Author:</string>
+        <string name="preguntas_frecuentes">Preguntas frecuentes</string>
+        <string name="contactanos">Contactanos</string>
+        <string name="terminos_de_la_app">Terminos y Privacidad</string>
+        <string name="nuestra_informacion">Fuentes de informacion</string>
+        <string name="info_de_la_app">Info. de la app</string>
+        <string name="title_activity_about">Remedium App</string>
+        <string name="contactando_centros">Contactando a nuestros centros herbolarios&#8230;</string>
+        <string name="bajando_tips">Preguntando a nuestra comunidad&#8230;</string>
+        <string name="username_card">Manuel Canul</string>
+        <string name="secondword_detail">ninjamanolito@gmail.com</string>
+        <string name="titleimagedetail">Plantas Favoritas</string>
+        <string name="action_send">Enviar</string>
+        <string name="titulo_perfil">Perfil</string>
+
+        <string name="facebook_app_id">482225162117501</string>
+        <string name="cancel_login">Se cancelo logueo con Facebook</string>
+        <string name="error_login">Ocurrio un error :(</string>
+        <string name="firebase_error_login">A ocurrido un error</string>
+        <string name="remediumapp20">Remedium App 2.0</string>
+        <string name="sign_in_with_facebook" translation_description="Sign in button text">Sign in with Facebook</string>
+        <string name="confirmar_salida">¿Desea realmente salir de Remedium Ap?</string>
+        <string name="fallo_de_conexion">Hubo una falla de Red&#8230;</string>
+        <string name="saludo">Hola</string>
+
+        <!--TODO ESTO ES PARA EL SPINNER DE CONTACTO -->
+        <string name="contact1">Mejorar diseño</string>
+        <string name="contact2">Falla de aplicacion</string>
+        <string name="contact3">Añadir Planta</string>
+        <string name="contact4">Falta Ortografica</string>
+        <string name="hint_categoria_contacto">Escoge una categoria</string>
+        <string name="hint_espera_del_mensaje">Cuentame que sucede&#8230;</string>
+        <string name="version">Version 2.0</string>
+        <string name="derechos_reservados">2016&#8211;2017 Manuel Canul.</string>
+        <string name="derechos_reservados2">Todos los Derechos Reservados.</string>
+        <string name="texto_licencias">LICENCIAS</string>
+        <string name="nombre_del_fuente1">Centro de Investigacion Cientifica de Yucatan</string>
+        <string name="conocer_mas">Conocer Mas!!</string>
+        <string name="nombre_del_fuente2">Centro Comunitario de Arte y Filosofia Maya \"Raxalaj Mayab\"</string>
+        <string name="promedio_edad_enfermedad">Promedio de edad de la enfermedad</string>
+        <string name="titulo_zonas">Estados</string>
+        <string name="sintoma_enfermedad">Sintomas</string>
+        <string name="prompt_mensaje">Android charting application xml ui design tutorial with example. Android charting application xml ui design tutorial with example. Android charting application xml ui design tutorial with example. Android charting application xml ui design tutorial with example.</string>
+        <string name="si_se_pud">SI SE PUDO</string>
+        <string name="direcci_n">Direcciòn</string>
+        <string name="correo">Correo</string>
+        <string name="telefono">Telefono</string>
+        <string name="promedio_de_la_enfermedad">Promedio de la enfermedad</string>
+        <string name="s_ntomas">Síntomas</string>
+        <string name="nombre_cient_fico">Nombre Científico</string>
+        <string name="descripci_n_de_la_planta">Descripción de la planta</string>
+        <string name="preparaci_n_de_la_planta">Preparación de la planta</string>
+        <string name="titulo_directory">Centros Herbolarios</string>
+        <string-array name="categoria_de_contacto">
+            <item>@string/contact1</item>
+            <item>@string/contact2</item>
+            <item>@string/contact3</item>
+            <item>@string/contact4</item>
+        </string-array>
+        <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    </resources>
+
+
